@@ -34,6 +34,10 @@
 
 <p align="left">Modélisation et conception d'un data warehouse pour centraliser et structurer les données.</p>
 
+<div align="center">
+  <img height="300" src="datawarehouse.png"  />
+</div>
+
 ###
 
 <h4 align="left">___✅ Cube OLAP :</h4>
@@ -53,7 +57,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="dashboard.png"  />
+  <img height="500" src="dashboard.png"  />
 </div>
 
 ###
