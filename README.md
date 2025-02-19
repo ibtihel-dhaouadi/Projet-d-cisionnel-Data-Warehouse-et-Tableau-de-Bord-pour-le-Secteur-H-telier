@@ -53,7 +53,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://i.im.ge/2025/01/16/zGF9aa.dashboard.png"  />
+  <img height="250" src="dashboard.png"  />
 </div>
 
 ###
